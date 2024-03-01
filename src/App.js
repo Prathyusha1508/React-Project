@@ -70,7 +70,7 @@ function App() {
         <div className="user-details">
           <h5>{localStorage.getItem("name")}</h5>
           <h5>{localStorage.getItem("email")}</h5>
-          {/* <img src={localStorage.getItem("profilePic")} alt="Profile" /> */}
+          
         </div>
       </div>
     </div>
